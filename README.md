@@ -66,14 +66,6 @@ The script stores data in `game_list_cache.json`. It:
 
 ---
 
-## 💡 Future Enhancements
-
-- [ ] Add GUI for non-developers.  
-- [ ] Include ranking trends over time.  
-- [ ] Support for regional rankings.  
-
----
-
 ## 🤝 Contributions
 
 Want to make this better? Fork the repo, create a new branch, and submit a pull request. All contributions are welcome! 🎉  
