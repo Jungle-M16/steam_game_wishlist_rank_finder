@@ -157,8 +157,8 @@ if found_rank is None:
     found_rank = game_titles.get(game_name)
 
     if found_rank is not None:
-        print(f"The game '{game_name}' is ranked #{found_rank}.")
+        print(f"The game '{game_name}' is ranked #{found_rank}. 🚀")
     else:
         print(f"The game '{game_name}' was not found in the popular wishlist.")
 else:
-    print(f"The game '{game_name}' is ranked #{found_rank}.")
+    print(f"The game '{game_name}' is ranked #{found_rank}. 🚀")
